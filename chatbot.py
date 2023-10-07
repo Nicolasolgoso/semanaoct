@@ -14,4 +14,4 @@ try:
     float_number = float(edad)
     print("Input as float: ", float_number)
 except ValueError:
-    print("Invalid Input. Please enter a valid number")
+    print("Invalid Input. Please enter a valid number from 1 to 31")
